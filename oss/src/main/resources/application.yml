@@ -1,0 +1,5 @@
+server:
+      ssl:
+        key-store: classpath:yidongzhenka.top.pfx
+        key-store-password: jpe755381e8
+        key-store-type: PKCS12
